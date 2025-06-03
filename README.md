@@ -15,7 +15,7 @@ Features
 Usage
 To use this project:
 - Clone the repository:
-git clone <your-repo-url>
+git clone (https://ruchik353.github.io/Form/)
 - Open index.html in a web browser.
 Future Enhancements
 🔹 Add JavaScript for form validation and dynamic updates.
